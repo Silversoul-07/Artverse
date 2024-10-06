@@ -1,0 +1,40 @@
+@tailwind base;
+  @tailwind components;
+  @tailwind utilities;
+  
+/* add color variables */
+
+:root {
+  --dark-primary : #131314;
+  --dark-secondary: #1e1f20;
+  --dark-text: #fbfcff
+}
+
+body {
+  background-color: var(--dark-primary);
+  height: 100vh;
+  font-family: 'Roboto', sans-serif;
+}
+
+main{
+  min-height: calc(100vh - 6.6rem);
+  color: var(--dark-text);
+}
+
+@layer utilities {
+  /* Hide scrollbar for Chrome, Safari and Opera */
+  .no-scroll::-webkit-scrollbar {
+      display: none;
+  }
+ /* Hide scrollbar for IE, Edge and Firefox */
+  .no-scroll {
+      -ms-overflow-style: none;  /* IE and Edge */
+      scrollbar-width: none;  /* Firefox */
+}
+}
+
+.masonry-column {
+  padding: 8px; /* adjust as needed */
+  background-clip: padding-box;
+}
+
