@@ -1,0 +1,9 @@
+[submodule "ArtCore"]
+	path = ArtCore
+	url = https://github.com/Silversoul-07/ArtCore.git
+[submodule "ArtEngine"]
+	path = ArtEngine
+	url = https://github.com/Silversoul-07/ArtEngine.git
+[submodule "ArtFetch"]
+	path = ArtFetch
+	url = https://github.com/Silversoul-07/ArtFetch.git
