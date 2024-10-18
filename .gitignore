@@ -1,0 +1,10 @@
+ArtVault/avatar/*
+ArtVault/clips/*
+ArtVault/sync/*
+ArtVault/visuals/*
+
+!ArtVault/avatar/.gitkeep
+!ArtVault/clips/.gitkeep
+!ArtVault/sync/.gitkeep
+!ArtVault/visuals/.gitkeep
+
