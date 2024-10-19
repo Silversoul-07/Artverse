@@ -46,7 +46,7 @@ bash start.sh
 Contributions are welcome! Feel free to fork the repository and submit pull requests :).
 
 ## License
-This Project is licensed under a [![CC BY-ND 4.0][cc-by-nd-shield]][cc-by-nd]
+This Project is licensed under a   [![CC BY-ND 4.0][cc-by-nd-shield]][cc-by-nd]
 
 [cc-by-nd]: https://creativecommons.org/licenses/by-nd/4.0/
 [cc-by-nd-shield]: https://img.shields.io/badge/License-CC%20BY--ND%204.0-lightgrey.svg
