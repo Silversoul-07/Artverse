@@ -1,10 +1,11 @@
+
 # Artverse
 
-**Artverse** is an AI-based image sharing platform designed for seamless user interaction and enhanced visual content discovery. The platform is divided into four submodules:
-- **ArtCore**: Frontend built with Next.js (Typescript).
-- **ArtEngine**: Backend powered by FastAPI, with PostgreSQL and MilvusDB.
-- **ArtFetch**: AI-based web scraper using Selenium and Python.
-- **ArtVault**: Central Storage Directory
+**Artverse** is an AI-driven image sharing platform focused on seamless user interaction and enhanced visual content discovery. It includes four submodules: **ArtCore** (Frontend), **ArtEngine** (backend), **ArtFetch** (data extractor), **ArtVault** (media manager).
+## Screenshots
+
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
 
 ## Features
 
@@ -19,34 +20,62 @@
 - Collections have weak, medium, and strong levels to manage anomaly images.
 - Users can like, dislike posts, follow others, upload images, and create collections.
 
-## Installation
+## Run Locally
 
-Clone the repository and run the installation script to install dependencies:
-
-```bash
-git clone https://github.com/Silversoul-07/Artverse.git
-cd Artverse
-bash install.sh
-```
-## Usage
-
-To start the frontend and all servers:
+Clone the project
 
 ```bash
-bash start.sh
+  git clone https://github.com/Silversoul-07/Artverse
 ```
 
-## Technologies
-**Frontend (Core):** Next.js, TypeScript  
-**Backend (Engine):** FastAPI, Python, PostgreSQL, MilvusDB  
-**Web Scraping (Fetch):** Python, Selenium
+Go to the project directory
+
+```bash
+  cd Artverse
+```
+
+Initialize and update the submodules
+
+```bash
+git submodule update --init --recursive
+``` 
+
+Install dependencies
+
+```bash
+  bash install.sh
+```
+
+Start the Application
+
+```bash
+  bash start.sh
+```
 
 
+## Documentation
+
+[Documentation](https://linktodocumentation)
+
+
+## Issues
+
+Feel free to open an issue if you encounter bugs, have questions, or want to suggest features.
 ## Contributing
-Contributions are welcome! Feel free to fork the repository and submit pull requests :).
+
+Contributions are always welcome!
+
+See `contributing.md` for ways to get started.
+
+## Author
+
+- [@Silversoul-07](https://www.github.com/Silversoul-07)
+
 
 ## License
-This Project is licensed under a   [![CC BY-ND 4.0][cc-by-nd-shield]][cc-by-nd]
+
+[![CC BY-ND 4.0][cc-by-nd-shield]][cc-by-nd]
 
 [cc-by-nd]: https://creativecommons.org/licenses/by-nd/4.0/
 [cc-by-nd-shield]: https://img.shields.io/badge/License-CC%20BY--ND%204.0-lightgrey.svg
+
