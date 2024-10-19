@@ -47,3 +47,6 @@ Contributions are welcome! Feel free to fork the repository and submit pull requ
 
 ## License
 This Project is licensed under a [![CC BY-ND 4.0][cc-by-nd-shield]][cc-by-nd]
+
+[cc-by-nd]: https://creativecommons.org/licenses/by-nd/4.0/
+[cc-by-nd-shield]: https://img.shields.io/badge/License-CC%20BY--ND%204.0-lightgrey.svg
