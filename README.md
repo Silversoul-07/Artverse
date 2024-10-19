@@ -46,4 +46,4 @@ bash start.sh
 Contributions are welcome! Feel free to fork the repository and submit pull requests :).
 
 ## License
-This project is licensed under the GPLv3 License.
+This Project is licensed under a [![CC BY-ND 4.0][cc-by-nd-shield]][cc-by-nd]
