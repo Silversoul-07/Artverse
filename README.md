@@ -74,8 +74,11 @@ See `contributing.md` for ways to get started.
 
 ## License
 
-[![CC BY-ND 4.0][cc-by-nd-shield]][cc-by-nd]
+[![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
 
-[cc-by-nd]: https://creativecommons.org/licenses/by-nd/4.0/
-[cc-by-nd-shield]: https://img.shields.io/badge/License-CC%20BY--ND%204.0-lightgrey.svg
+[![CC BY-NC 4.0][cc-by-nc-image]][cc-by-nc]
+
+[cc-by-nc]: https://creativecommons.org/licenses/by-nc/4.0/
+[cc-by-nc-image]: https://licensebuttons.net/l/by-nc/4.0/88x31.png
+[cc-by-nc-shield]: https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg
 
